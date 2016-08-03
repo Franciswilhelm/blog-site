@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+
+.post {
+  background-color: #006600;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.about {
+  border: 3px solid #006600;
+  font-style: italic;
+}
